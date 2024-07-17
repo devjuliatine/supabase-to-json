@@ -30,7 +30,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name 'devjuliatine'
-          git config --global user.email 'gjuliatinemachado@gmail.com'
+          git config --global user.email 'juliatinemachado@gmail.com'
           git add data.json
           git commit -m 'Update data'
           git push
