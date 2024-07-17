@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "created_at": null,
+    "nome_usuario": "Maria",
+    "apelido_usuario": "MariaPitica",
+    "email_usuario": "maria@gmail.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 3,
+    "created_at": "2024-07-17T03:37:14.15032+00:00",
+    "nome_usuario": "Julia",
+    "apelido_usuario": "Juju3000",
+    "email_usuario": "juju@gmail.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Superior"
+  },
+  {
+    "id": 4,
+    "created_at": "2024-07-17T04:20:56.981601+00:00",
+    "nome_usuario": "",
+    "apelido_usuario": "",
+    "email_usuario": "",
+    "sexo_usuario": null,
+    "regiao_usuario": null,
+    "estcivil_usuario": null,
+    "escolaridade_usuario": null
+  },
+  {
+    "id": 18,
+    "created_at": "2024-07-17T04:35:27.612277+00:00",
+    "nome_usuario": "Armando Luis",
+    "apelido_usuario": "Armandinho123",
+    "email_usuario": "seuarmando@gmail.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Sul",
+    "estcivil_usuario": "Casado(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 19,
+    "created_at": "2024-07-17T04:48:45.676949+00:00",
+    "nome_usuario": "João Alberto",
+    "apelido_usuario": "JotaBeto",
+    "email_usuario": "Jotinha63@hotmail.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Técnico"
+  }
+]
