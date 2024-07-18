@@ -1,16 +1,5 @@
 [
   {
-    "id": 1,
-    "created_at": null,
-    "nome_usuario": "Maria",
-    "apelido_usuario": "MariaPitica",
-    "email_usuario": "maria@gmail.com",
-    "sexo_usuario": "Feminino",
-    "regiao_usuario": "Nordeste",
-    "estcivil_usuario": "Solteiro(a)",
-    "escolaridade_usuario": "Ensino Médio Concluído"
-  },
-  {
     "id": 3,
     "created_at": "2024-07-17T03:37:14.15032+00:00",
     "nome_usuario": "Julia",
@@ -20,17 +9,6 @@
     "regiao_usuario": "Sudeste",
     "estcivil_usuario": "Solteiro(a)",
     "escolaridade_usuario": "Ensino Superior"
-  },
-  {
-    "id": 4,
-    "created_at": "2024-07-17T04:20:56.981601+00:00",
-    "nome_usuario": "",
-    "apelido_usuario": "",
-    "email_usuario": "",
-    "sexo_usuario": null,
-    "regiao_usuario": null,
-    "estcivil_usuario": null,
-    "escolaridade_usuario": null
   },
   {
     "id": 18,
@@ -64,5 +42,247 @@
     "regiao_usuario": "Centro-Oeste",
     "estcivil_usuario": "Viúvo(a)",
     "escolaridade_usuario": "Ensino Técnico"
+  },
+  {
+    "id": 21,
+    "created_at": "2024-07-17T20:20:04.064093+00:00",
+    "nome_usuario": "Josue",
+    "apelido_usuario": "JesseMini",
+    "email_usuario": "jesse@mail.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sul",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 22,
+    "created_at": "2024-07-17T20:38:02.623734+00:00",
+    "nome_usuario": "Juliana",
+    "apelido_usuario": "julianaaa",
+    "email_usuario": "juju@mail.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Técnico"
+  },
+  {
+    "id": 23,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Eugenia",
+    "apelido_usuario": "eugeniaflor",
+    "email_usuario": "eugenia@gmail.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Fundamental"
+  },
+  {
+    "id": 24,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Maria Clara",
+    "apelido_usuario": "mariamirim",
+    "email_usuario": "mariaclara@email.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Norte",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Cursando Ensino Médio"
+  },
+  {
+    "id": 25,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Alice",
+    "apelido_usuario": "alicechain",
+    "email_usuario": "alicechain@hotmail.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Casado(a)",
+    "escolaridade_usuario": "Ensino Fundamental"
+  },
+  {
+    "id": 26,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Adalberto",
+    "apelido_usuario": "adalerdo",
+    "email_usuario": "adalberto12@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Fundamental"
+  },
+  {
+    "id": 27,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Beto",
+    "apelido_usuario": "betocarreiro",
+    "email_usuario": "betobeto@hotmail.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Cursando Ensino Médio"
+  },
+  {
+    "id": 28,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "César",
+    "apelido_usuario": "cesarhenrique",
+    "email_usuario": "cesarjulio@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Viúvo(a)",
+    "escolaridade_usuario": "Cursando Ensino Médio"
+  },
+  {
+    "id": 29,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Cristo",
+    "apelido_usuario": "cristoredentor",
+    "email_usuario": "cristianoronaldo01@outlook.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Casado(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 30,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Amanda",
+    "apelido_usuario": "amandinha",
+    "email_usuario": "amandinha@email.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Norte",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 31,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Gabriel Menezes",
+    "apelido_usuario": "gab6789",
+    "email_usuario": "ganzeira@hotmail.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Viúvo(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 32,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Lucas Santos",
+    "apelido_usuario": "lucao3000",
+    "email_usuario": "lucassantos@gmail.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Sudeste",
+    "estcivil_usuario": "Separado(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 33,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Lucas Banhos",
+    "apelido_usuario": "lucasbanhos12",
+    "email_usuario": "lucasdosbanhos@gmail.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Separado(a)",
+    "escolaridade_usuario": "Ensino Fundamental"
+  },
+  {
+    "id": 34,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "João Pedro",
+    "apelido_usuario": "joaozinho23",
+    "email_usuario": "joazonho2300@email.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sul",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 35,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Mateus Aguiar",
+    "apelido_usuario": "matweus",
+    "email_usuario": "mateuzinho@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Casado(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
+  },
+  {
+    "id": 36,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Mateo Luca",
+    "apelido_usuario": "matteofilho",
+    "email_usuario": "matteoluca12@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Norte",
+    "estcivil_usuario": "Divorciado(a)",
+    "escolaridade_usuario": "Ensino Técnico"
+  },
+  {
+    "id": 37,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "BangChan",
+    "apelido_usuario": "bangchanchin",
+    "email_usuario": "bangchanchin@email.com",
+    "sexo_usuario": "Prefiro não dizer",
+    "regiao_usuario": "Sul",
+    "estcivil_usuario": "Divorciado(a)",
+    "escolaridade_usuario": "Ensino Fundamental"
+  },
+  {
+    "id": 38,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Jesus Luz",
+    "apelido_usuario": "jesuscristoluz1",
+    "email_usuario": "jesusluzcristo@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Casado(a)",
+    "escolaridade_usuario": "Ensino Técnico"
+  },
+  {
+    "id": 39,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Maddona Oliveira",
+    "apelido_usuario": "madonnalinda",
+    "email_usuario": "maddonalinda@email.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Centro-Oeste",
+    "estcivil_usuario": "Separado(a)",
+    "escolaridade_usuario": "Ensino Superior"
+  },
+  {
+    "id": 40,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Miriam Almeida",
+    "apelido_usuario": "miriamaleida",
+    "email_usuario": "miriamalmeida@email.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Centro-Oeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Superior"
+  },
+  {
+    "id": 41,
+    "created_at": "2024-07-18T03:03:30.410131+00:00",
+    "nome_usuario": "Alberto Henrique",
+    "apelido_usuario": "albertooo1234",
+    "email_usuario": "albertobeto@email.com",
+    "sexo_usuario": "Masculino",
+    "regiao_usuario": "Centro-Oeste",
+    "estcivil_usuario": "Divorciado(a)",
+    "escolaridade_usuario": "Ensino Superior"
+  },
+  {
+    "id": 1,
+    "created_at": "2024-07-18T03:04:47+00:00",
+    "nome_usuario": "Maria",
+    "apelido_usuario": "MariaPitica",
+    "email_usuario": "maria@gmail.com",
+    "sexo_usuario": "Feminino",
+    "regiao_usuario": "Nordeste",
+    "estcivil_usuario": "Solteiro(a)",
+    "escolaridade_usuario": "Ensino Médio Concluído"
   }
 ]
